@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "readable-stream": "^1.0.26-4",
+    "source-map": "^0.1.33",
     "streamqueue": "0.0.6"
   }
 }
